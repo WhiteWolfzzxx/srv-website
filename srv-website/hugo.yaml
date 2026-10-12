@@ -69,16 +69,10 @@ languages:
                 static website generator HUGO.
             themes:
                 event:
-                    slogan: Not a real conference - this is just a demo!
-                    location: Pforzheim, Germany
+                    slogan: A Legacy Of Railroading And Craftsmanship
+                    location: Bay City, MI
                     description: |
-                        This is a demo website to showcase the features of the __Event__ theme
-                        for the static website generator [Hugo](https://gohugo.io). You can
-                        find the source code of this website on
-                        [GitHub](https://github.com/medialesson/hugo-theme-event-demo). The theme
-                        can fetch data of any event from [Sessionize](https://sessionize.com) and
-                        automatically generates a schedule, a speaker list, and more. It also 
-                        integrates well with [Eventbrite](https://www.eventbrite.com) to sell tickets.
+                        The Saginaw River Valley Model Railroad Club is Michigan’s oldest modular model railroad club, officially established as a nonprofit in 1978. Our members share a passion for railroading, craftsmanship, and creating immersive model layouts that spark imagination for all ages. 
                     directions: |
                         #### By Public Transportation
                         Take the number 25 bus from downtown. [Click here for the bus
@@ -103,7 +97,7 @@ languages:
                         ### Additional Info
                         - We bring together diverse expertise and innovation.
                     callToActionSecondary:
-                      label: Become a Speaker!
+                      label: Buy Tables!
 
 params:
     # Open Graph / X (Twitter) Cards
@@ -113,14 +107,12 @@ params:
         event:
             sessionizeId: 67poir7q
             title: Saginaw River Valley Model Railroad Club
-            shortTitle:
-            startDate: 2027-01-30
-            endDate: 2027-01-31
+            shortTitle: Mid Michigan Model Train Show
+            startDate: 2027-04-04
+            endDate: 2027-04-05
             address:
-                - Medialesson GmbH
-                - Habermehlstraße 15
-                - 75172 Pforzheim
-                - Germany
+                - One Wenonah Park Place
+                - Bay City, MI 48708
             map:
                 embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
                 viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
@@ -136,7 +128,7 @@ params:
                 linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
             images:
                 logo: logos/medicon-512.webp
-                titleBackground: images/pexels-caleboquendo-3023317.webp
+                titleBackground: images/SRVMRC_Home_Banner_4.jpg
                 location: images/habermehlstr.webp
             sponsors:
                 - logo: logos/medialesson-logo.svg
