@@ -105,11 +105,13 @@
         <header class="section-container page-header" id="pageHeader">
             <div class="section section--short page-header__content" id="pageHeaderContent">
                 <nav id="mainNavigation" class="page-header__navigation" aria-labelledby="main-navigation-label">
-                    <img 
-                        width="120px" 
-                        height="53px" 
-                        src="/SRV_Logo.png" 
-                        alt="SRV Logo Home Button">
+                    <a href="{{site.Home.RelPermalink}}">
+                        <img 
+                            width="120px" 
+                            height="53px" 
+                            src="/SRV_Logo.png" 
+                            alt="SRV Logo Home Button">
+                    </a>
 
                     <!-- Label for assistive technologies only -->
                     <label id="main-navigation-label" class="sr-only">{{ T "main_menu.label" }}</label>
