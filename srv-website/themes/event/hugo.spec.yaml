@@ -31,7 +31,7 @@ params:
                 - City
                 - Country
             callToAction:
-                enableBanner: true
+                enableBanner: false
             callToActionSecondary:
                 url: https://example.com
                 label: Sprecher:in werden

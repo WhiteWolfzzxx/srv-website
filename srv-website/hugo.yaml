@@ -264,7 +264,9 @@ params:
                 - '729579'
             colors:
                 primaryLighter: '#5CB1E8'
-                primary: '#0d81be'
+                primary: '#204031'
                 primaryDarker: '#143e8b'
                 track: '#15B8CA'
             redirectBasedOnBrowserLang: true
+
+  

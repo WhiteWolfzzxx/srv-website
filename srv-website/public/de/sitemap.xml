@@ -91,13 +91,13 @@
     <loc>//localhost:1313/categories/advanced/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/categories/advanced/"
+                hreflang="en"
+                href="//localhost:1313/en/categories/advanced/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/advanced/"
+                hreflang="de"
+                href="//localhost:1313/categories/advanced/"
                 />
   </url><url>
     <loc>//localhost:1313/speakers/aiden-test-00000000-0000-0000-0000-000000000004/</loc>
@@ -129,13 +129,13 @@
     <loc>//localhost:1313/categories/arabic/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/categories/arabic/"
+                hreflang="en"
+                href="//localhost:1313/en/categories/arabic/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/arabic/"
+                hreflang="de"
+                href="//localhost:1313/categories/arabic/"
                 />
   </url><url>
     <loc>//localhost:1313/speakers/ava-test-00000000-0000-0000-0000-000000000008/</loc>
@@ -230,25 +230,25 @@
     <loc>//localhost:1313/categories/english/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/categories/english/"
+                hreflang="en"
+                href="//localhost:1313/en/categories/english/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/english/"
+                hreflang="de"
+                href="//localhost:1313/categories/english/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/expert/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/categories/expert/"
+                hreflang="en"
+                href="//localhost:1313/en/categories/expert/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/expert/"
+                hreflang="de"
+                href="//localhost:1313/categories/expert/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/french/</loc>
@@ -266,50 +266,50 @@
     <loc>//localhost:1313/categories/german/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/categories/german/"
+                hreflang="en"
+                href="//localhost:1313/en/categories/german/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/german/"
+                hreflang="de"
+                href="//localhost:1313/categories/german/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/intermediate/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/categories/intermediate/"
+                hreflang="en"
+                href="//localhost:1313/en/categories/intermediate/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/intermediate/"
+                hreflang="de"
+                href="//localhost:1313/categories/intermediate/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/introductory-and-overview/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/categories/introductory-and-overview/"
+                hreflang="en"
+                href="//localhost:1313/en/categories/introductory-and-overview/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/introductory-and-overview/"
+                hreflang="de"
+                href="//localhost:1313/categories/introductory-and-overview/"
                 />
   </url><url>
     <loc>//localhost:1313/speakers/jackson-test-00000000-0000-0000-0000-000000000001/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/speakers/jackson-test-00000000-0000-0000-0000-000000000001/"
+                hreflang="en"
+                href="//localhost:1313/en/speakers/jackson-test-00000000-0000-0000-0000-000000000001/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/speakers/jackson-test-00000000-0000-0000-0000-000000000001/"
+                hreflang="de"
+                href="//localhost:1313/speakers/jackson-test-00000000-0000-0000-0000-000000000001/"
                 />
   </url><url>
     <loc>//localhost:1313/sessions/jacksons-session-729572/</loc>
@@ -393,13 +393,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/speakers/lucas-test-00000000-0000-0000-0000-000000000005/"
+                hreflang="de"
+                href="//localhost:1313/speakers/lucas-test-00000000-0000-0000-0000-000000000005/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/speakers/lucas-test-00000000-0000-0000-0000-000000000005/"
+                hreflang="en"
+                href="//localhost:1313/en/speakers/lucas-test-00000000-0000-0000-0000-000000000005/"
                 />
   </url><url>
     <loc>//localhost:1313/sessions/lucass-session-729576/</loc>
@@ -509,25 +509,25 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/sessions/registration-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/"
+                hreflang="de"
+                href="//localhost:1313/sessions/registration-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/sessions/registration-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/"
+                hreflang="en"
+                href="//localhost:1313/en/sessions/registration-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/session/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/session/"
+                hreflang="de"
+                href="//localhost:1313/categories/session/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/categories/session/"
+                hreflang="en"
+                href="//localhost:1313/en/categories/session/"
                 />
   </url><url>
     <loc>//localhost:1313/speakers/sophia-test-00000000-0000-0000-0000-000000000000/</loc>
@@ -584,13 +584,13 @@
     <loc>//localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/tags/"
+                hreflang="de"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/tags/"
+                hreflang="en"
+                href="//localhost:1313/en/tags/"
                 />
   </url><url>
     <loc>//localhost:1313/sessions/the-history-of-another-family-844991/</loc>
