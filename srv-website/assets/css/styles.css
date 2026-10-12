@@ -9,3 +9,7 @@ body {
     border-bottom: 3px solid #F4F3EF;
 }
 
+.header-menu__link {
+  color: white !important;
+}
+
