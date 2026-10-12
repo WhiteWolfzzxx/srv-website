@@ -10,11 +10,11 @@ languages:
                 - identifier: about
                   pageRef: /about
                   weight: 10
-                - identifier: sessions
-                  pageRef: /sessions
-                  weight: 20
                 - identifier: who_we_are
                   pageRef: /who-we-are
+                  weight: 20
+                - identifier: sessions
+                  pageRef: /sessions
                   weight: 30
                 - identifier: location
                   pageRef: /location
