@@ -1,6 +1,8 @@
 theme: event
 
 defaultContentLanguage: en
+disableKinds = ["RSS"]
+
 languages:
     _merge: deep
     en:
