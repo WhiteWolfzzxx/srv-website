@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Portuguese on </title>
+		<link>//localhost:1313/en/categories/portuguese/</link>
+		<description>Recent content in Portuguese on </description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<atom:link href="//localhost:1313/en/categories/portuguese/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ava&#39;s Session</title>
+				<link>//localhost:1313/en/sessions/avas-session-729579/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/sessions/avas-session-729579/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Technology, Interview, Consumer. Ha!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

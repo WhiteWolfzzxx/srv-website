@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Session on </title>
+		<link>//localhost:1313/categories/session/</link>
+		<description>Recent content in Session on </description>
+		<generator>Hugo</generator>
+		<language>de</language>
+		
+		
+		
+		
+			<atom:link href="//localhost:1313/categories/session/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aiden&#39;s Session</title>
+				<link>//localhost:1313/sessions/aidens-session-729575/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/sessions/aidens-session-729575/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Interview, Consumer, Psychology. Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Emma&#39;s Session</title>
+				<link>//localhost:1313/sessions/emmas-session-729573/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/sessions/emmas-session-729573/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Illustration, Personal branding, Consumer. Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sophia&#39;s Session about C#</title>
+				<link>//localhost:1313/sessions/sophias-session-about-c%23-729571/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/sessions/sophias-session-about-c%23-729571/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Personal branding, Human resources, Consumer. Ha!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

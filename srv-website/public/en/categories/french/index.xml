@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>French on </title>
+		<link>//localhost:1313/en/categories/french/</link>
+		<description>Recent content in French on </description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<atom:link href="//localhost:1313/en/categories/french/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aiden&#39;s Session</title>
+				<link>//localhost:1313/en/sessions/aidens-session-729575/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/sessions/aidens-session-729575/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Interview, Consumer, Psychology. Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Jackson&#39;s Session</title>
+				<link>//localhost:1313/en/sessions/jacksons-session-729572/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/sessions/jacksons-session-729572/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Board games, Coffee, Psychology. Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Lucas&#39;s Session</title>
+				<link>//localhost:1313/en/sessions/lucass-session-729576/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/sessions/lucass-session-729576/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Shoe, Interview, Psychology. Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The History of Another Family</title>
+				<link>//localhost:1313/en/sessions/the-history-of-another-family-844991/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/en/sessions/the-history-of-another-family-844991/</guid>
+				<description>&lt;p&gt;The surname &amp;ldquo;Smith&amp;rdquo; is one of the most common surnames in the English-speaking world. It originates from the Old English word &amp;ldquo;smitan,&amp;rdquo; which means &amp;ldquo;to smite&amp;rdquo; or &amp;ldquo;to strike.&amp;rdquo; This name was typically given to blacksmiths, who were essential members of medieval communities due to their skills in metalworking.&lt;/p&gt;&#xA;&lt;p&gt;The Smith family name has been recorded in England since the Anglo-Saxon period, and it spread to other parts of the British Isles and beyond with the expansion of the British Empire. Many Smiths emigrated to the United States, Canada, Australia, and other countries, where the name remains prevalent.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

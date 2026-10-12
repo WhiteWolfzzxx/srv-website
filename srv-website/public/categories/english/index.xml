@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>English on </title>
+		<link>//localhost:1313/categories/english/</link>
+		<description>Recent content in English on </description>
+		<generator>Hugo</generator>
+		<language>de</language>
+		
+		
+		
+		
+			<atom:link href="//localhost:1313/categories/english/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Emma&#39;s Session</title>
+				<link>//localhost:1313/sessions/emmas-session-729573/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/sessions/emmas-session-729573/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Illustration, Personal branding, Consumer. Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sophia&#39;s Session about C#</title>
+				<link>//localhost:1313/sessions/sophias-session-about-c%23-729571/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/sessions/sophias-session-about-c%23-729571/</guid>
+				<description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Personal branding, Human resources, Consumer. Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The History of the Doe Family</title>
+				<link>//localhost:1313/sessions/the-history-of-the-doe-family-844985/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/sessions/the-history-of-the-doe-family-844985/</guid>
+				<description>&lt;p&gt;The Doe family has a rich and varied history. The surname “Doe” is believed to have Norman origins, arriving in England after the Norman Conquest of 1066. The family originally lived in Somerset, and their name is thought to derive from the Norman French “Castle of O” or “D’O,” meaning &amp;ldquo;from O&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;The Doe family held lands in Lancashire from very early times, granted by Duke William of Normandy for their assistance at the Battle of Hastings in 10661. Over the centuries, the surname has seen various spellings, including Doe and Dow, due to the lack of standardized spelling in Old and Middle English.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
