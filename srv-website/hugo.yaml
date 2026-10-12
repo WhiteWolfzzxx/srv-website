@@ -13,8 +13,8 @@ languages:
                 - identifier: sessions
                   pageRef: /sessions
                   weight: 20
-                - identifier: speakers
-                  pageRef: /speakers
+                - identifier: who_we_are
+                  pageRef: /who-we-are
                   weight: 30
                 - identifier: location
                   pageRef: /location
@@ -41,8 +41,8 @@ languages:
                           Learn more about our mission, values, and the people behind our organization.
                           The "About Us" page provides insights into who we are, what we do,
                           and why we’re passionate about our work.
-                - identifier: speakers
-                  pageRef: /speakers
+                - identifier: who_we_are
+                  pageRef: /who-we-are
                   weight: 30
                   params:
                       description: |
